@@ -34,6 +34,7 @@ while not finished:
     if scoreboard.score == 5:
         snake.change_color()
         screen.bgcolor("yellow")
+    if scoreboard.score == 4:
         scoreboard.color("black")
 
 

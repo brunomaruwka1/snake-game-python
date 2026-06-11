@@ -1,0 +1,84 @@
+# Snake Game 🐍
+
+![Gameplay](assets/snake-gameplay.png)
+
+A classic Snake game written in Python using the Turtle graphics library.
+
+## Features
+
+* WASD controls
+* Random food spawning
+* Score tracking
+* Highscore persistence
+* Snake growth after eating food
+* Collision detection with walls and tail
+* Dynamic color and background change after reaching a score of 5
+
+## Technologies
+
+* Python 3
+* Turtle
+* Object-Oriented Programming (OOP)
+
+## Project Structure
+
+```text
+main.py          # Main game loop
+snake.py         # Snake class and movement logic
+food.py          # Food generation
+scoreboard.py    # Score and highscore handling
+highscore.txt    # Highscore storage
+```
+
+## How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/brunomaruwka1/snake-game-python.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd snake-game-python
+```
+
+3. Run the game
+
+```bash
+python main.py
+```
+
+## What I Learned
+
+* Object-oriented programming in Python
+* Working with multiple modules
+* Event handling and keyboard input
+* File operations (saving and loading highscores)
+* Game loop implementation
+* Collision detection
+
+```
+```
+# Snake Game
+
+A classic Snake game written in Python using the Turtle library.
+
+## Features
+
+- WASD controls
+- Random food spawning
+- Score tracking
+- Highscore saving
+- Collision detection
+- Snake growth
+
+## Technologies
+
+- Python 3
+- Turtle
+
+## Run
+
+python main.py

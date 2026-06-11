@@ -1,5 +1,7 @@
 # Snake Game
 
+![Gameplay](assets/snake-gameplay.png)
+
 A classic Snake game written in Python using the Turtle library.
 
 ## Features
@@ -18,4 +20,6 @@ A classic Snake game written in Python using the Turtle library.
 
 ## Run
 
+```bash
 python main.py
+```
