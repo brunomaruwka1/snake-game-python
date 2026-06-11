@@ -5,7 +5,7 @@ import os
 ALIGNMENT = "center"
 FONT = ("Courier", 24, "normal")
 FILE_PATH = os.getcwd() 
-FILE_NAME = "/snake-game-python/highscore.txt"
+FILE_NAME = "/highscore.txt"
 FULL_PATH = FILE_PATH + FILE_NAME
 
 class Scoreboard(Turtle):
