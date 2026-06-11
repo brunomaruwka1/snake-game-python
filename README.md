@@ -4,6 +4,8 @@
 
 A classic Snake game written in Python using the Turtle library.
 
+The project was developed using object-oriented programming principles with custom classes responsible for game logic, food generation, snake movement and score management. It also includes a persistent highscore system that saves records between game sessions.
+
 ## Features
 
 - WASD controls
@@ -22,4 +24,3 @@ A classic Snake game written in Python using the Turtle library.
 
 ```bash
 python main.py
-```
